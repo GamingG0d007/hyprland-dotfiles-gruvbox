@@ -1,2 +1,2 @@
 # hyprland-dotfiles-gruvbox
-hyprland dotfiles for gruvbox theme
+# hyprland-dotfiles-gruvbox

@@ -1,0 +1,6 @@
+configuration {
+display-drun: "Apps";
+display-window: "Windows";
+modi: "window,run,emoji,drun,calc";
+}
+@theme "~/.config/rofi/themes/gruvbox/gruvbox-light.rasi"
